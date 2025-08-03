@@ -45,13 +45,9 @@ For your second milestone, explain what you've worked on since your previous mil
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DfVpINkoD8E?si=P-HraV8CjgleFHOj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
+I completed my first milestone by assembling the basic structure of my car, and writing code for the car to perform fundamental functions, like turning or accelerating. I was able to connect the Arduino to the motor (through the motor driver), as well as to secondary components, such as the various obstacle avoidance modules. My favorite element is the line tracking module, which is able to detect a black line on a white surface, and then follow the line by micro-rotating the left and right motors. In the future, I want to calibrate the motors to make sure that they move at the same rate, instead of causing the car to veer to the right. I also want to have the car detect and follow pre-programmed objects, which will utilize AI as well as a Raspberry Pi board instead of an Arduino.
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
