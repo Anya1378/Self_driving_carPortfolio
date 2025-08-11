@@ -31,15 +31,9 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 # Second Milestone
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aVD1fVmLguA?si=dikKwTPf3H0K_pp5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
+I achieved my second milestone by adding on auxiliary functions to the self-driving car, such as long distance obstacle avoidance using the ultrasonic module, short distance avoidance using the IR obstacle avoidance modules, and implementing remote control capabilities. I also started my modifications by setting up a Raspberry Pi, and downloading and working with YOLO, which is an image processing network for my car to be able to identify and follow objects that it recognizes. It is challening to code and use the Raspberry Pi because I have never used this before, but I find it very interesting and beneficial to learn about. To finish up my project, I need to mount the Raspberry Pi camera onto my car, continue working and developing with YOLO, and write code to make the car follow objects that it detects, such as people.
 
 # First Milestone
 
